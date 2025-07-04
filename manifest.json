@@ -1,0 +1,1 @@
+{'name': 'Sistem NUR Rekod Tasmik', 'short_name': 'NUR', 'start_url': '/nur-tasmik/index.html', 'scope': '/nur-tasmik/', 'display': 'standalone', 'background_color': '#ffffff', 'theme_color': '#a18cd1', 'icons': [{'src': '/nur-tasmik/icon-192.png', 'sizes': '192x192', 'type': 'image/png'}, {'src': '/nur-tasmik/icon-512.png', 'sizes': '512x512', 'type': 'image/png'}]}
